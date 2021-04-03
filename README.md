@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chengyang9966
+- 👋 Hi, I’m @cheng Yang
 - 👀 I’m interested in Web DEvelopment, Workout and Reading
 - 🌱 I’m currently learning AWS and Firebase 
 - 💞️ I’m looking to collaborate on ...
