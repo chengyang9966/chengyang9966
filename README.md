@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cheng Yang
-- 👀 I’m interested in Web DEvelopment, Workout and Reading
+- 👀 I’m interested in Web Development, Workout and Reading
 - 🌱 I’m currently learning AWS and Firebase 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by call +60108930879 or by email chengyang9966@gmail.com
