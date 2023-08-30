@@ -21,7 +21,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=cheng+yang+ong">「 Google Me 」</a>
+    <a target="_blank" href="https://www.google.com/search?q=cheng+yang+ong">「 Google Me 」</a>
     <br>
     「 I am a full stack web appplication developer from <b>Malaysia</b> 」
     <br>
